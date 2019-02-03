@@ -60,6 +60,7 @@ Plugin 'VundleVim/Vundle.vim'
 Bundle 'rstacruz/sparkup', {'rtp': 'vim'}
 Plugin 'godlygeek/tabular'
 Plugin 'plasticboy/vim-markdown'
+Plugin 'isnowfy/python-vim-instant-markdown'
 
 call vundle#end()
 filetype plugin indent on
